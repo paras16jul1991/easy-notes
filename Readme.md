@@ -1,3 +1,5 @@
+#Swagger URL :  http://localhost:8989/swagger-ui.html
+
 # Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
 
 Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
@@ -65,3 +67,7 @@ You can test them using postman or any other rest client.
 You can find the tutorial for this application on my blog -
 
 <https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/>
+
+https://www.baeldung.com/spring-cache-tutorial
+
+
