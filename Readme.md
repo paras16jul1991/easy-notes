@@ -1,4 +1,5 @@
 #Swagger URL :  http://localhost:8989/swagger-ui.html
+#Heroku Swagger URL : https://easy-notes-jpa.herokuapp.com/swagger-ui.html
 
 # Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
 
@@ -20,7 +21,7 @@ Build Restful CRUD API for a simple Note-Taking application using Spring Boot, M
 git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
 ```
 
-**2. Create Mysql database**
+**2. Create Mysql database or change database name**
 ```bash
 create database notes_app
 ```
@@ -62,7 +63,7 @@ The app defines following CRUD APIs.
 
 You can test them using postman or any other rest client.
 
-## Learn more
+## Learn more : 
 
 You can find the tutorial for this application on my blog -
 
